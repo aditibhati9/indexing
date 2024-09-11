@@ -3,10 +3,4 @@
   <url>
     <loc>https://aditibhati9.github.io/indexing/</loc>
     <priority>1.0</priority>
-  </url>
-  <!-- Add more URLs for the links on your page here -->
-  <url>
-    <loc>https://www.scribd.com/document/753987397/Course-Detail-Astrology</loc>
-    <priority>0.8</priority>
-  </url>
 </urlset>
